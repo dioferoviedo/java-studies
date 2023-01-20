@@ -6,7 +6,7 @@ Hello, world! This repository will show you all the chapters I learned and pract
   
   ➥ So if you wanna analyze my competitions, just open any folder and explore what I code :D 
 
-## Contacts:
+### Contact:
 
 <div>
 <a href="https://www.instagram.com/diofer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
