@@ -4,7 +4,7 @@ Hello, world! This repository will show you all the chapters I learned and pract
   
   ➥ I created during the course folders to file the exercises that I was challenged to do! 
   
-  ➥ So if you want to analyze my skills, just open any folder and explore what I code :D 
+  ➥ So if you want to analyze my skills just open any folder and explore what I code :D 
 
 ### Contact:
 
