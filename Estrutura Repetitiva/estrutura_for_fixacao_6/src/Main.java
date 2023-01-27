@@ -1,5 +1,3 @@
-package estrutura_for_fixacao_6;
-
 import java.util.Scanner;
 
 public class Main {
