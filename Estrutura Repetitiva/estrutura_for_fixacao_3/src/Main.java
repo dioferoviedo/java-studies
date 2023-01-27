@@ -18,7 +18,7 @@ public class Main {
 			double b = sc.nextDouble();
 			double c = sc.nextDouble();
 			
-			double mediaponderada = (2*a + 3*b + 5*c)/10;
+			double mediaponderada = (2.0*a + 3.0*b + 5.0*c)/10;
 			
 			System.out.println("A média ponderada é: " + mediaponderada);
 		}
