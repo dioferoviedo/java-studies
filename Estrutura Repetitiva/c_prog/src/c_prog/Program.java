@@ -32,6 +32,7 @@ public class Program {
 		else {
 			aux = z;
 		}
+		return aux;
 	}
 	
 	public static void showResult(int value) {
