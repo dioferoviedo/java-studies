@@ -1,4 +1,4 @@
-# Java Studies <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/>
+# Java Studies <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 Hello, world! This repository will show you all the chapters I learned and practiced during the Java course. 
   
   ➥ I created during the course folders to file the exercises that I was challenged to do,     
