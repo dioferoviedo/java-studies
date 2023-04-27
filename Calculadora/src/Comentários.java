@@ -5,7 +5,7 @@ public class Comentários {
      * Este método foi elaborado as pressas
      * por isso eu abreveei o nome das variáveis
      * mas olha, ele tem a finalidade de somar ou 
-     * multiplicar dois números
+     * multiplicar dois números.
      */
     public int somaMultiplica (int n, int x, String m){
     int r = 0; // r é igual ao resultado
