@@ -5,7 +5,7 @@
 * <b>Note:</b> Leia atentamente a documentação desta classes
 * para desfrutar dos recursos oferecidos pelo autor
 *
-* @author  Diofer Oviedo
+* @author  Diofer Teonilo Oviedo
 * @version 1.0
 * @since   01/01/2022
 */
