@@ -1,18 +1,17 @@
-## Getting Started
+## Desafio ContaBanco
+Neste diretório você encontrará o primeiro desafio de projeto proposto pela plataforma de aprendizagem DIO - Digital Innovation One. Onde foi requisitado a mim um código que realizasse a leitura de dados de um cliente de banco e logo após as apresentasse no terminal.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Pastas
 
-## Folder Structure
+O que encontrarei nas pastas:
 
-The workspace contains two folders by default, where:
+- `src`: Aqui é onde está todo a estrutura do desafio.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+ - `bin`: Enquanto isso, os arquivos de saída compilados serão gerados na pasta `bin` por padrão.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+> Se você quiser personalizar a estrutura da pasta, abra `.vscode/settings.json` e atualize as configurações relacionadas lá.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Tecnologia Utilizada
+ - Java 8+
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).

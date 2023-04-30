@@ -1,18 +1,16 @@
-## Getting Started
+## Sistema SmarTV
+Esta é uma aplicação para simular o uso de uma televisão smart, sendo possível, pelo código, aumentar e dimunuir o volume, mudar canais e ligar e desligar a TV.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Pastas
 
-## Folder Structure
+O que encontrarei nas pastas:
 
-The workspace contains two folders by default, where:
+- `src`: Aqui é onde está todo a estrutura da aplicação. Temos 2 arquivos .java nela onde o primeiro, `SmartTv.java`, é a nossa public class SmartTv que realizará todas as operações que serão exibidas no terminal pela `Usuario.java`
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+ - `bin`: Enquanto isso, os arquivos de saída compilados serão gerados na pasta `bin` por padrão.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+> Se você quiser personalizar a estrutura da pasta, abra `.vscode/settings.json` e atualize as configurações relacionadas lá.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Tecnologia Utilizada
+ - Java 8+
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
